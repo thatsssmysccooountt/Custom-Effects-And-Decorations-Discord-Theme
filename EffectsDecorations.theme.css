@@ -25,12 +25,12 @@
 }
 
 /* User-specific overrides (copy/paste template and replace <unique-username>) */
-[aria-label*="<unique-username>"], [id="popout_28"] {
+[aria-label*="_nadyalina"], [id="popout_28"] {
 	/**
 	 * The URL for the profile effect override this user should have
 	 * Defult is set to Dark Omens
 	 */
-	--profile-effect-image: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png");
+	--profile-effect-image: url(https://canary.discord.com/shop#itemSkuId=1139323093991575696);
 	/**
 	 * The URL for the avatar decoration override this user should have
 	 * Defult is set to Cat Ears
